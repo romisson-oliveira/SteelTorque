@@ -14,6 +14,8 @@
 - [Funcionalidades do projeto](#funcionalidades-do-projeto)
 - [Materiais utilizados](#materiais-utilizados)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Desenvolvedores](#desenvolvedores)
+	- [Autores](#autores)
 
 ---
 
@@ -65,3 +67,10 @@ Para desenvolver este projeto será necessário:
 - [Tinkercad](<(https://www.tinkercad.com/)>);
 - IDE do Arduino Uno para escrever códigos;
 - Computador com acesso à internet.
+
+## Desenvolvedores
+
+### Autores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/201294211?s=400&u=42b1a7358cbff3ea73aea1bdaf0c5530005b4a77&v=4" width=115><br><sub>Romisson Oliveira</sub>](https://github.com/romisson-oliveira) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/179499082?v=4" width=115><br><sub>Samuel Serra</sub>](https://github.com/guilhermeonrails) |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
